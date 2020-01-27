@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://paraociden.github.io</id>
     <title>Paraociden&apos;s World</title>
-    <updated>2020-01-27T09:23:06.595Z</updated>
+    <updated>2020-01-27T09:32:05.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://paraociden.github.io"/>
     <link rel="self" href="https://paraociden.github.io/atom.xml"/>
-    <subtitle>Work hard.  Be happy.  Have fun.</subtitle>
+    <subtitle>Work hard.  Have fun.  Be happy.</subtitle>
     <logo>https://paraociden.github.io/images/avatar.png</logo>
     <icon>https://paraociden.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Paraociden&apos;s World</rights>
@@ -19,6 +19,28 @@
         <summary type="html"><![CDATA[<p>从前一直有记日记的习惯，那是我敏感的内心和迟钝的智商联合起来逃避现实的方式。然而每天记流水账已经不能满足我了，再加上我的手跟不上我的脑子，于是想试试把文字上的发泄从纸张中转移到电脑上来。主要有一些：</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>从前一直有记日记的习惯，那是我敏感的内心和迟钝的智商联合起来逃避现实的方式。然而每天记流水账已经不能满足我了，再加上我的手跟不上我的脑子，于是想试试把文字上的发泄从纸张中转移到电脑上来。主要有一些：</p>
+<!-- more -->
+<p>🌝<strong>脑内小剧场</strong></p>
+<ul>
+<li>奇奇怪怪的小短篇啊</li>
+<li>梦境的记叙啊</li>
+<li>突发奇想的balabala...啥的</li>
+</ul>
+<p>🍿<strong>书影音x后感</strong></p>
+<ul>
+<li>看书之后的想法啊</li>
+<li>看电影、电视剧之后的想法啊</li>
+<li>听某种音乐的想法...啥的</li>
+</ul>
+<p>♻️<strong>杂七杂八的东西（以图片为主吧）</strong></p>
+<ul>
+<li>生活的日常啊</li>
+<li>旅游啊（太宅了所以不常出门要不然可以专门搞一栏）</li>
+<li>自己搞出来的图片啥的</li>
+</ul>
+<p>主要以自娱自乐、自我记录为主，没有人看反而很安心啊哈哈哈哈哈！<br>
+看我能坚持多久吧。<br>
+以上。</p>
 ]]></content>
     </entry>
     <entry>
@@ -27,6 +49,18 @@
         <link href="https://paraociden.github.io/post/qiao-men">
         </link>
         <updated>2020-01-27T10:12:34.000Z</updated>
+        <content type="html"><![CDATA[<p>“笃、笃、笃。”<br>
+三下轻轻的敲门声，与心跳频率一致，不要按门铃。这是他们的暗号。山田先生惴惴不安地站在门口，脑中浮现起真纪子那双美丽的眼睛。像小鹿一般明亮的眼睛总是带着点惊慌的神色，激动的时候会变得湿润，挑起他无限的欲望。山田先生就是为了这双眼睛才偷偷背叛了妻子和真纪子在一起的。只是最近似乎被对方丈夫发现了端倪。<br>
+没有人应门。是没有听见吗？</p>
+<p>“笃、笃、笃。”<br>
+山田先生攥紧了手中的花束，再次敲门。他要请求真纪子和自己远走高飞。有什么不能放弃的呢？为了那双眼睛他连命都可以不要。在遇见她之后，他才发现自己之前的人生如同行尸走肉。他拥有她，也只有她。多么幸运，多么不幸。山田先生深知真纪子不是能随意放弃家庭的女人，但他只想要他们永远在一起。<br>
+仍然没有人应门。她在犹豫什么？</p>
+<p>山田先生的手伸进衣兜，拿出药瓶，把药洒在花束上。只要一点点氰化钾就够。手控制不住地颤抖。最后的办法，他绝望地想，这是最后的办法，想要永远在一起的最后的办法。他屏住呼吸。</p>
+<p>“笃、笃、笃。”<br>
+敲门声重重砸在山田先生的神经上。周围死一般的安静。少顷，房内似乎传来脚步声。拥有小鹿眼睛的真纪子，他唯一的真纪子。山田先生突然感到悲伤。他一个激灵，下意识地转身，准备离去。这时他突然发现门廊旁边的屋子，窗户一直开着，从里面可以看到门口的情形。<br>
+窗边有一双眼睛，大大的、惊恐的、湿润的眼睛。那是真纪子的眼睛。</p>
+<p>门发出轻微的声响。山田先生感到头痛。他把头埋进花束，呼吸开始变得急促起来。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
@@ -39,6 +73,25 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
