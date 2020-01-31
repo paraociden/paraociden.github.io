@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://paraociden.github.io</id>
     <title>Paraociden&apos;s World</title>
-    <updated>2020-01-29T06:28:00.422Z</updated>
+    <updated>2020-01-31T03:23:27.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://paraociden.github.io"/>
     <link rel="self" href="https://paraociden.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://paraociden.github.io/images/avatar.png</logo>
     <icon>https://paraociden.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Paraociden&apos;s World</rights>
+    <entry>
+        <title type="html"><![CDATA[火车]]></title>
+        <id>https://paraociden.github.io/post/huo-che</id>
+        <link href="https://paraociden.github.io/post/huo-che">
+        </link>
+        <updated>2020-01-31T04:20:08.000Z</updated>
+        <content type="html"><![CDATA[<p>时已入隆冬。你和朋友们在破旧的欧式站台等一趟列车。<br>
+站台上熙熙攘攘的人群中有欧美人也有亚洲面孔，分不清在国内还是在国外。人们呼出的雾气与火车头飘出的雾气混在一起，让人看不清站牌。你们迫切地想坐上那一趟开往远方，开往未来的列车。<br>
+啊，看到了。二站台出发。一个人说。<br>
+我们必须走吗？有人问。<br>
+是的，必须走。有人回答，我们必须去往未来。<br>
+火车随时都可能到，而你们却还在一站台徘徊。从一站台去二站台也要坐火车。走吧。你们被人流推搡着挤上了车。车厢内宽敞明亮，你们为远方的一切感到兴奋，尽情地畅想着去往未来之后要做的事情。<br>
+二站台就在眼前了。你们却发现比起一站台，二站台的火车破旧不堪，站台上甚至还有各种零件散落着，一群人正在大声争论如何组装。看来想要从二站台去往远方要花费很多时间和精力。你和朋友们商量着，这趟车这么新这么快，既然可以去二站台也必定能去远方，甚至比另外的火车到的地方更远。<br>
+那么在二站台就不下车了？<br>
+好的。<br>
+列车一直往前开。免去了麻烦，你们为自己的明智而沾沾自喜。然而过了一会，你们开始觉得有些不对劲。窗外的所有物体逐渐退去颜色，变成黑白影片。景色也越来越荒凉，街道破败，房屋稀疏；疯狂逃窜的人群，骑马枪战的牛仔，当街理发的师傅用剃刀割断了女孩的脖子。你和朋友们面面相觑，大家都有种不祥的预感。<br>
+最终列车停下了。老旧的街道，烂掉的广告牌，居民看到列车驶来时惊慌的神色……你们下车没多久就惊恐地发现了真相。<br>
+这里不是远方，不是未来，而是过去。那个混乱而黑暗的过去。<br>
+远处，拿着铁棍的巡警走来。多么熟悉的场景。你和朋友们四散奔逃，顾不得对方，孤身一人闯进一条小街。眼看巡警的身影越来越近，你飞快地钻进一个铺子。上楼梯，进房间，你溜进主人卧室的床底下。四周死一般寂静，只剩自己扑通扑通的心跳声。<br>
+仿佛过了一个世纪，一个声音在你头顶响起：<br>
+<strong>我知道你在那儿。</strong><br>
+<strong>你逃不掉的。</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020.1.  书影音记录]]></title>
         <id>https://paraociden.github.io/post/20201-shu-ying-yin-ji-lu</id>
