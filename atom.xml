@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://paraociden.github.io</id>
     <title>Paraociden&apos;s World</title>
-    <updated>2020-08-30T13:01:14.782Z</updated>
+    <updated>2020-09-28T14:11:00.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://paraociden.github.io"/>
     <link rel="self" href="https://paraociden.github.io/atom.xml"/>
@@ -11,9 +11,32 @@
     <icon>https://paraociden.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Paraociden&apos;s World</rights>
     <entry>
+        <title type="html"><![CDATA[2020.9. 书影音记录]]></title>
+        <id>https://paraociden.github.io/post/20209-shu-ying-yin-ji-lu/</id>
+        <link href="https://paraociden.github.io/post/20209-shu-ying-yin-ji-lu/">
+        </link>
+        <updated>2020-09-28T13:29:30.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="看的书">📚看的书</h2>
+<h4 id="我是个年轻人我心情不太好">《我是个年轻人，我心情不太好》</h4>
+<h6 id="阿澜卢">🇸🇪阿澜·卢</h6>
+<p>很久之前就听过它的大名，不过看了之后并没有觉得那么好，就是比较有同感吧。作者是一个喜欢思考人生的青年，一般喜欢思考的人都不会过得那么开心。还好他交到了朋友（女朋友）？还有一个很棒的哥哥。我二者都没有（既没有男朋友，哥哥也没有很棒）。我才应该心情不好呢。哼。</p>
+<hr>
+<h2 id="看的剧和电影">🎬看的剧和电影</h2>
+<p>哎……这个月不知道在忙些什么，电影也没有看，剧也没有追……可能是突然没有什么兴趣追剧了……也可能是资源越来越难找了。（或者是没有钱买百度网盘的会员了，咳咳）总之没有看剧或者电影，sorry。（你在跟谁道歉啊？）</p>
+<hr>
+<h2 id="听的歌">🎼听的歌</h2>
+<h4 id="ハルノヒテレパしい">《ハルノヒ》&amp;《テレパしい》</h4>
+<h6 id="あいみょん">🎤あいみょん</h6>
+<p>最近缪又出新专辑了。于是又发现两首好听的歌！嘿嘿~感觉她的歌怎么都听不厌啊。之前看到她的专访，她说比起歌手更愿意当一个作曲的人。听到这句我就放心了。以后不愁听不到她的歌了。</p>
+<h4 id="糸">《糸》</h4>
+<h6 id="菅田将暉石崎ひゅーい">🎤菅田将暉＆石崎ひゅーい</h6>
+<p>《糸》是我喜欢的两个人苏打和小松菜奈主演的电影。这首主题曲也很好听啊！苏打的声线一如既往地令人心动。这首歌有一种穿越时空的年代感，会让人感动。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2020.8. 书影音记录]]></title>
-        <id>https://paraociden.github.io/post/20208-shu-ying-yin-ji-lu</id>
-        <link href="https://paraociden.github.io/post/20208-shu-ying-yin-ji-lu">
+        <id>https://paraociden.github.io/post/20208-shu-ying-yin-ji-lu/</id>
+        <link href="https://paraociden.github.io/post/20208-shu-ying-yin-ji-lu/">
         </link>
         <updated>2020-08-30T12:49:37.000Z</updated>
         <content type="html"><![CDATA[<h2 id="看的书">📚看的书</h2>
@@ -44,8 +67,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2020.7. 书影音记录]]></title>
-        <id>https://paraociden.github.io/post/20207-shu-ying-yin-ji-lu</id>
-        <link href="https://paraociden.github.io/post/20207-shu-ying-yin-ji-lu">
+        <id>https://paraociden.github.io/post/20207-shu-ying-yin-ji-lu/</id>
+        <link href="https://paraociden.github.io/post/20207-shu-ying-yin-ji-lu/">
         </link>
         <updated>2020-07-30T14:42:16.000Z</updated>
         <content type="html"><![CDATA[<h2 id="看的书">📚看的书</h2>
@@ -78,8 +101,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2020.6. 书影音记录]]></title>
-        <id>https://paraociden.github.io/post/20206-shu-ying-yin-ji-lu</id>
-        <link href="https://paraociden.github.io/post/20206-shu-ying-yin-ji-lu">
+        <id>https://paraociden.github.io/post/20206-shu-ying-yin-ji-lu/</id>
+        <link href="https://paraociden.github.io/post/20206-shu-ying-yin-ji-lu/">
         </link>
         <updated>2020-06-30T14:51:13.000Z</updated>
         <content type="html"><![CDATA[<h2 id="看的书">📚看的书</h2>
@@ -113,8 +136,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[慌慌张张地开启新生活]]></title>
-        <id>https://paraociden.github.io/post/huang-huang-zhang-zhang-di-kai-qi-xin-sheng-huo</id>
-        <link href="https://paraociden.github.io/post/huang-huang-zhang-zhang-di-kai-qi-xin-sheng-huo">
+        <id>https://paraociden.github.io/post/huang-huang-zhang-zhang-di-kai-qi-xin-sheng-huo/</id>
+        <link href="https://paraociden.github.io/post/huang-huang-zhang-zhang-di-kai-qi-xin-sheng-huo/">
         </link>
         <updated>2020-05-31T09:54:52.000Z</updated>
         <content type="html"><![CDATA[<p>即将在此度过三个月找工作生涯的小屋<br>
@@ -126,8 +149,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2020.5. 书影音记录]]></title>
-        <id>https://paraociden.github.io/post/20205-shu-ying-yin-ji-lu</id>
-        <link href="https://paraociden.github.io/post/20205-shu-ying-yin-ji-lu">
+        <id>https://paraociden.github.io/post/20205-shu-ying-yin-ji-lu/</id>
+        <link href="https://paraociden.github.io/post/20205-shu-ying-yin-ji-lu/">
         </link>
         <updated>2020-05-31T09:33:31.000Z</updated>
         <content type="html"><![CDATA[<h2 id="看的书">📚看的书</h2>
@@ -184,8 +207,8 @@ S：“他真的，可爱死了。”</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020.4. 书影音记录]]></title>
-        <id>https://paraociden.github.io/post/20204-shu-ying-yin-ji-lu</id>
-        <link href="https://paraociden.github.io/post/20204-shu-ying-yin-ji-lu">
+        <id>https://paraociden.github.io/post/20204-shu-ying-yin-ji-lu/</id>
+        <link href="https://paraociden.github.io/post/20204-shu-ying-yin-ji-lu/">
         </link>
         <updated>2020-04-30T07:56:06.000Z</updated>
         <content type="html"><![CDATA[<h2 id="看的书">📚看的书</h2>
@@ -223,8 +246,8 @@ S：“他真的，可爱死了。”</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[隧道惊魂]]></title>
-        <id>https://paraociden.github.io/post/sui-dao-liang-hun</id>
-        <link href="https://paraociden.github.io/post/sui-dao-liang-hun">
+        <id>https://paraociden.github.io/post/sui-dao-liang-hun/</id>
+        <link href="https://paraociden.github.io/post/sui-dao-liang-hun/">
         </link>
         <updated>2020-04-27T06:04:03.000Z</updated>
         <content type="html"><![CDATA[<p>当当当。<br>
@@ -246,8 +269,8 @@ S：“他真的，可爱死了。”</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020.3. 书影音记录]]></title>
-        <id>https://paraociden.github.io/post/20203-shu-ying-yin-ji-lu</id>
-        <link href="https://paraociden.github.io/post/20203-shu-ying-yin-ji-lu">
+        <id>https://paraociden.github.io/post/20203-shu-ying-yin-ji-lu/</id>
+        <link href="https://paraociden.github.io/post/20203-shu-ying-yin-ji-lu/">
         </link>
         <updated>2020-03-29T14:22:45.000Z</updated>
         <content type="html"><![CDATA[<h2 id="看的书">📚看的书</h2>
@@ -293,8 +316,8 @@ Holly lifted her martini. ‘Let’s wish the Doc luck, too,’ she said, touchi
     </entry>
     <entry>
         <title type="html"><![CDATA[2020.2. 书影音记录]]></title>
-        <id>https://paraociden.github.io/post/20202shu-ying-yin-ji-lu</id>
-        <link href="https://paraociden.github.io/post/20202shu-ying-yin-ji-lu">
+        <id>https://paraociden.github.io/post/20202shu-ying-yin-ji-lu/</id>
+        <link href="https://paraociden.github.io/post/20202shu-ying-yin-ji-lu/">
         </link>
         <updated>2020-02-29T08:49:25.000Z</updated>
         <content type="html"><![CDATA[<h2 id="看的书">📚看的书</h2>
@@ -334,17 +357,6 @@ Holly lifted her martini. ‘Let’s wish the Doc luck, too,’ she said, touchi
 <h6 id="刘莱斯">🎤刘莱斯</h6>
 <p>最近的SJ真的很甜！！于是翻出了陈年视频，发现这首歌也好听。主要是歌词比较贴合两个人的成长历程（我在说啥）<br>
 等等……其实我只是喜欢视频吧？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于看不惯又干不掉的人事物]]></title>
-        <id>https://paraociden.github.io/post/dui-yu-kan-bu-guan-you-gan-bu-diao-de-ren-shi-wu</id>
-        <link href="https://paraociden.github.io/post/dui-yu-kan-bu-guan-you-gan-bu-diao-de-ren-shi-wu">
-        </link>
-        <updated>2020-02-29T05:08:27.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://paraociden.github.io/post-images/1582945819640.jpg" alt="" loading="lazy"></figure>
-<p>趁着在日本还拥有出门自由，我每天都会出去散散步。住的地方附近有一个很大的造船厂还是啥，经常飘来浓重的油漆味道，还好我家离得远味道没有那么重，但住在工厂对面的人们就不太好受了，于是就有了以上的照片。生活中总是有一些让人讨厌却又无可奈何的人事物吧。就算什么都做不了，至少能自由地表达自己的情绪。啊！讨厌！<br>
-（第一次放图片在文章中就是这种风格的真的好吗😅）</p>
 ]]></content>
     </entry>
 </feed>
